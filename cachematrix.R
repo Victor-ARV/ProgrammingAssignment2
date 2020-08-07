@@ -1,5 +1,4 @@
 ## Below are shown a set of functions that print an inverse of a a given matrix.
-## functions do
 
 ## This function (makecacheMatrix) creates a special “matrixvector”, which is really a list containing a function to
 
